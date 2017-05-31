@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/tapper
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thinktapper.com
+  * I am tapper (https://keybase.io/tapper) on keybase.
+  * I have a public key with fingerprint 9D7E 4A2E 2CC3 0C2A 471F  A74B 081D D78E 41FD 81E1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c7286e33aa630f9b8aa186a549508b60f4427d0d99af2f529259d6822a0215bc0a",
+            "fingerprint": "9d7e4a2e2cc30c2a471fa74b081dd78e41fd81e1",
+            "host": "keybase.io",
+            "key_id": "081dd78e41fd81e1",
+            "kid": "0101c7286e33aa630f9b8aa186a549508b60f4427d0d99af2f529259d6822a0215bc0a",
+            "uid": "84729e7ac8d60ae9e33a40cfebf02519",
+            "username": "tapper"
+        },
+        "service": {
+            "hostname": "thinktapper.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1496237373,
+    "expire_in": 157680000,
+    "prev": "1dab661303f08fa4d621dff45e4b7529728cca0d98f0e3bee4e784e9be702c78",
+    "seqno": 34,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.71
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD6nTNMSewiRzJTBgsBOs5ezO3sqoiwhH+oURgWdjrM7s7qp
+u6fd9djpZEoXyS6UXUAjunKgooduYAiRRjcKi4h6SEno8mAUlKFkBTab9dRrMw/D
+/P/3ffPNx383e6Ivy1/wvm9o1+4pkv9xT3u9b0Pg3qIkUC2SAKEkqKG/D1pLqONG
+awwCQgBykNNkHklUEDCWBKgrKsKYQxIOikoQIlWCuijyMoFEUbDO60Fe4YMKkRDP
+Y8hzQVWDGJQA3TCrqB2zDdNlsgqRqYh5ymuaADUeizKnY1lUIeIIkREVOZ0gjnKM
+WG05HoOZU7FDA4bFauwSHbf3L/4/+67/LYdEmVeojDVEJIip4qmKUNOpqkM+yCke
+0KG2iesoQ7s4FqM2aCwBrBY3NOrF6v3jb7/aMGvGQQHNqmPkmG25lmbVsma168ZC
+HtdNxDxwA1Wjf2SiqmESliMjxKntGJYJQhxDaq7h6XKiIvGCzHYJoFtjhk2jhocI
+yhKCbHnP0DiT5AhWJYkToKBDpGORSDxHdF0MUlGVWQ4sN03DLBikQyqolIpURiJV
+VCpDXpMR8D62xbRASBCZT1zFNB2jysRuvU1B453ujWk+f5YvfdIEb8B8WZnT/o7d
+5IUZY9G24sIK2jszt/Dyqo5jp56krR5e9m52/uDApQM5Zw9WNDfOT+Vsm5Hd5P/Q
+nzG9//CX8IXHRWifMpzunNy08XpzXnUByRtxNp1reDb0MYJSe5OtN1oufFzekemu
+KSqe1nXioj08dsY+NFXa3HovN7XdufUUtCz5+onkj36uCed2Pxo0R7RKpS392vHK
+l/mleiLSOO9oUU9kqOhnrb985fH+Vw+v7J93dV1T4nzL84ZiUjdn9Mi39aX+zh3f
+5SvnQWDuykjZwJ1sE2bEy9a+2LlmwcP7fT8ezArfxF+W7k+92dOZjKxov917mTuZ
+2Tb4NnDQPv26q3xxVJvjrioPZ3TnLPoFEn88aA==
+=0WyS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tapper
+
+==================================================================
