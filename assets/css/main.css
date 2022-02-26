@@ -705,7 +705,8 @@
 		max-width: 100%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: #ffffff;
+		background: rgba(40, 46, 51, 1);
+/* 		background: #ffffff; */
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
@@ -746,7 +747,8 @@
 				width: calc(100% + 6em);
 				height: 1px;
 				z-index: -1;
-				background: #c8cccf;
+				background: rgba(40, 46, 51, .8)
+/* 				background: #c8cccf; */
 			}
 
 		@media screen and (max-width: 480px) {
